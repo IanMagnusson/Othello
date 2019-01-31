@@ -1,4 +1,4 @@
-# Othello
+# Othello (README UNDER CONSTRUCTION)
 Ian Magnusson
 CS5001
 Homework 6
